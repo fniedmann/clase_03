@@ -1,4 +1,7 @@
-var losDigimon, elArreglo, laPosicion, elColor
+var losDigimon;
+var elArreglo;
+var laPosicion;
+var elColor;
 
 function preload() {
     losDigimon = loadJSON("https://digimon-api.vercel.app/api/digimon");
